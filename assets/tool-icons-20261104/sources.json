@@ -1,0 +1,817 @@
+{
+  "assets/tool-icons-20261104/chatgpt.png": {
+    "source": "Installed ChatGPT application icon",
+    "kind": "bundled",
+    "tools": [
+      "ChatGPT"
+    ]
+  },
+  "assets/tool-icons-20261104/tonica.png": {
+    "source": "Installed Tonica application icon",
+    "kind": "bundled",
+    "tools": [
+      "Tonica"
+    ]
+  },
+  "assets/tool-icons-20261104/reeder.png": {
+    "source": "Installed Reeder application icon",
+    "kind": "bundled",
+    "tools": [
+      "Reeder"
+    ]
+  },
+  "assets/tool-icons-20261104/veil.png": {
+    "source": "Installed Veil application icon",
+    "kind": "bundled",
+    "tools": [
+      "Veil"
+    ]
+  },
+  "assets/tool-icons-20261104/cheetas.png": {
+    "source": "Installed Cheetas application icon",
+    "kind": "bundled",
+    "tools": [
+      "Cheetas"
+    ]
+  },
+  "assets/tool-icons-20261104/cheetas-qa.png": {
+    "source": "Installed Cheetas QA application icon",
+    "kind": "bundled",
+    "tools": [
+      "Cheetas QA"
+    ]
+  },
+  "assets/tool-icons-20261104/steam.png": {
+    "source": "Installed Steam application icon",
+    "kind": "bundled",
+    "tools": [
+      "Steam"
+    ]
+  },
+  "assets/tool-icons-20261104/texta.png": {
+    "source": "Installed Texta application icon",
+    "kind": "bundled",
+    "tools": [
+      "Texta"
+    ]
+  },
+  "assets/tool-icons-20261104/native-3ds-decryptor.png": {
+    "source": "Installed Native 3DS Decryptor application icon",
+    "kind": "bundled",
+    "tools": [
+      "Native 3DS Decryptor"
+    ]
+  },
+  "assets/tool-icons-20261104/poni.png": {
+    "source": "Installed Poni application icon",
+    "kind": "bundled",
+    "tools": [
+      "Poni"
+    ]
+  },
+  "assets/tool-icons-20261104/xenolauncher.png": {
+    "source": "Installed Xenolauncher application icon",
+    "kind": "bundled",
+    "tools": [
+      "Xenolauncher"
+    ]
+  },
+  "assets/tool-icons-20261104/karabiner-eventviewer.png": {
+    "source": "Installed Karabiner-EventViewer application icon",
+    "kind": "bundled",
+    "tools": [
+      "Karabiner-EventViewer"
+    ]
+  },
+  "assets/tool-icons-20261104/godot.png": {
+    "source": "Installed Godot application icon",
+    "kind": "bundled",
+    "tools": [
+      "Godot"
+    ]
+  },
+  "assets/tool-icons-20261104/engine-easyrpg-player.png": {
+    "source": "Installed Xenolauncher EasyRPG Player runtime icon",
+    "kind": "bundled",
+    "tools": [
+      "EasyRPG Player"
+    ]
+  },
+  "assets/tool-icons-20261104/engine-nw-js.png": {
+    "source": "Installed Xenolauncher NW.js runtime icon",
+    "kind": "bundled",
+    "tools": [
+      "NW.js"
+    ]
+  },
+  "assets/tool-icons-20261104/engine-ruffle.png": {
+    "source": "Installed Xenolauncher Ruffle runtime icon",
+    "kind": "bundled",
+    "tools": [
+      "Ruffle"
+    ]
+  },
+  "assets/tool-icons-20261104/engine-ren-py.png": {
+    "source": "Installed Xenolauncher Ren'Py runtime icon",
+    "kind": "bundled",
+    "tools": [
+      "Ren'Py"
+    ]
+  },
+  "assets/tool-icons-20261104/engine-mkxp-z.png": {
+    "source": "Installed Xenolauncher MKXP-Z runtime icon",
+    "kind": "bundled",
+    "tools": [
+      "MKXP-Z"
+    ]
+  },
+  "assets/tool-icons-20261104/engine-wine.png": {
+    "source": "Installed Xenolauncher Wine runtime icon",
+    "kind": "bundled",
+    "tools": [
+      "Wine"
+    ]
+  },
+  "assets/tool-icons-20261104/mgba.png": {
+    "source": "Installed mGBA application icon",
+    "kind": "bundled",
+    "tools": [
+      "mgba"
+    ]
+  },
+  "assets/tool-icons-20261104/openai-chatgpt.png": {
+    "source": "Installed openai.chatgpt extension asset",
+    "kind": "bundled",
+    "tools": [
+      "Codex",
+      "Codex CLI"
+    ]
+  },
+  "assets/tool-icons-20261104/tomoki1207-pdf.png": {
+    "source": "Installed tomoki1207.pdf extension asset",
+    "kind": "bundled",
+    "tools": [
+      "vscode-pdf"
+    ]
+  },
+  "assets/tool-icons-20261104/openai-codex-audio.png": {
+    "source": "Installed openai.codex-audio extension asset (shared Codex identity)",
+    "kind": "bundled",
+    "tools": [
+      "Codex Audio"
+    ]
+  },
+  "assets/tool-icons-20261104/raycast-kill-process.png": {
+    "source": "Installed Raycast Kill Process extension asset",
+    "kind": "bundled",
+    "tools": [
+      "Kill Process"
+    ]
+  },
+  "assets/tool-icons-20261104/raycast-visual-studio-code.png": {
+    "source": "Installed Raycast Visual Studio Code extension asset",
+    "kind": "bundled",
+    "tools": [
+      "Visual Studio Code"
+    ]
+  },
+  "assets/tool-icons-20261104/raycast-google-chrome.png": {
+    "source": "Installed Raycast Google Chrome extension asset",
+    "kind": "bundled",
+    "tools": [
+      "Google Chrome"
+    ]
+  },
+  "assets/tool-icons-20261104/chrome-google.png": {
+    "source": "Installed Chrome ドライブ用アプリケーション ランチャー（Google） extension icon",
+    "kind": "bundled",
+    "tools": [
+      "Google オフライン ドキュメント",
+      "ドライブ用アプリケーション ランチャー（Google）"
+    ]
+  },
+  "assets/tool-icons-20261104/chrome-chrome.png": {
+    "source": "Installed Chrome Chrome ウェブストア決済 extension icon",
+    "kind": "bundled",
+    "tools": [
+      "Chrome ウェブストア決済"
+    ]
+  },
+  "assets/tool-icons-20261104/chrome-bookmark-manager.png": {
+    "source": "Installed Chrome Bookmark Manager extension icon",
+    "kind": "bundled",
+    "tools": [
+      "Bookmark Manager"
+    ]
+  },
+  "assets/tool-icons-20261104/chrome-asmr-enhancer.png": {
+    "source": "Installed Chrome ASMR Enhancer extension icon",
+    "kind": "bundled",
+    "tools": [
+      "ASMR Enhancer"
+    ]
+  },
+  "assets/tool-icons-20261104/chrome-height-badges.png": {
+    "source": "Installed Chrome Height Badges extension icon",
+    "kind": "bundled",
+    "tools": [
+      "Height Badges"
+    ]
+  },
+  "assets/tool-icons-20261104/chrome-youtube-enhancer.png": {
+    "source": "Installed Chrome YouTube Enhancer extension icon",
+    "kind": "bundled",
+    "tools": [
+      "YouTube Enhancer"
+    ]
+  },
+  "assets/tool-icons-20261104/chrome-dlsite-toolkit.png": {
+    "source": "Installed Chrome DLsite Toolkit extension icon",
+    "kind": "bundled",
+    "tools": [
+      "DLsite Toolkit"
+    ]
+  },
+  "assets/tool-icons-20261104/chrome-chatgpt.png": {
+    "source": "Installed Chrome ChatGPT extension icon",
+    "kind": "bundled",
+    "tools": [
+      "ChatGPT"
+    ]
+  },
+  "assets/tool-icons-20261104/chrome-line.png": {
+    "source": "Installed Chrome LINE extension icon",
+    "kind": "bundled",
+    "tools": [
+      "LINE"
+    ]
+  },
+  "assets/tool-icons-20261104/chrome-data-cleaner.png": {
+    "source": "Installed Chrome Data Cleaner extension icon",
+    "kind": "bundled",
+    "tools": [
+      "Data Cleaner"
+    ]
+  },
+  "assets/tool-icons-20261104/ecosystem-homebrew.png": {
+    "source": "Previously published Homebrew icon in imagebox",
+    "kind": "ecosystem",
+    "tools": [
+      "brew-deptree",
+      "brotli",
+      "dav1d",
+      "fd",
+      "fmt",
+      "fontconfig",
+      "fribidi",
+      "ggml",
+      "giflib",
+      "harfbuzz",
+      "hdrhistogram_c",
+      "highway",
+      "jbig2dec",
+      "jpeg-turbo",
+      "json-c",
+      "leptonica",
+      "libarchive",
+      "libdatrie",
+      "libepoxy",
+      "libmpc",
+      "libpng",
+      "libtiff",
+      "libvmaf",
+      "lz4",
+      "mas",
+      "md4c",
+      "mpdecimal",
+      "oniguruma",
+      "pkgconf",
+      "qpdf",
+      "sdl2-compat",
+      "simdutf",
+      "svt-av1",
+      "tesseract",
+      "whisper.cpp",
+      "x265",
+      "xcodegen",
+      "zstd"
+    ]
+  },
+  "assets/tool-icons-20261104/ecosystem-obsidian.png": {
+    "source": "Previously published Obsidian icon in imagebox",
+    "kind": "ecosystem",
+    "tools": [
+      "Advanced Tables",
+      "Filename Heading Sync",
+      "Folder notes",
+      "NotePix",
+      "NotePix Frontmatter"
+    ]
+  },
+  "assets/tool-icons-20261104/ecosystem-chrome.png": {
+    "source": "Previously published Google Chrome icon in imagebox",
+    "kind": "ecosystem",
+    "tools": [
+      "Chrome PDF Viewer",
+      "Chrome built-in text-to-speech extension",
+      "Gemini in Chrome",
+      "Google Hangouts",
+      "Google Network Speech"
+    ]
+  },
+  "assets/tool-icons-20261104/site-unar.png": {
+    "source": "https://theunarchiver.com/images/the-unarchiver-96x96.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "unar"
+    ]
+  },
+  "assets/tool-icons-20261104/site-exiftool.png": {
+    "source": "https://exiftool.org/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "exiftool"
+    ]
+  },
+  "assets/tool-icons-20261104/site-jq.png": {
+    "source": "https://jqlang.org/icon.svg",
+    "kind": "official-site-favicon",
+    "tools": [
+      "jq"
+    ]
+  },
+  "assets/tool-icons-20261104/site-ghostscript.png": {
+    "source": "https://www.ghostscript.com/images/favicon.svg",
+    "kind": "official-site-favicon",
+    "tools": [
+      "ghostscript"
+    ]
+  },
+  "assets/tool-icons-20261104/site-cabextract.png": {
+    "source": "https://www.cabextract.org.uk/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "cabextract"
+    ]
+  },
+  "assets/tool-icons-20261104/site-freetype.png": {
+    "source": "https://freetype.org/image/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "freetype"
+    ]
+  },
+  "assets/tool-icons-20261104/site-c-ares.png": {
+    "source": "https://c-ares.org/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "c-ares"
+    ]
+  },
+  "assets/tool-icons-20261104/site-opus.png": {
+    "source": "https://www.opus-codec.org/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "opus"
+    ]
+  },
+  "assets/tool-icons-20261104/site-ada-url.png": {
+    "source": "https://ada-url.com/favicon-32x32.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "ada-url"
+    ]
+  },
+  "assets/tool-icons-20261104/site-mpfr.png": {
+    "source": "https://www.mpfr.org/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "mpfr"
+    ]
+  },
+  "assets/tool-icons-20261104/site-lzo.png": {
+    "source": "https://www.oberhumer.com/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "lzo"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libxcb.png": {
+    "source": "https://www.x.org/icon.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libxcb"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libvpx.png": {
+    "source": "https://www.webmproject.org/media/images/webm-48px.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libvpx"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libffi.png": {
+    "source": "https://sourceware.org/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libffi"
+    ]
+  },
+  "assets/tool-icons-20261104/site-graphite2.png": {
+    "source": "https://graphite.sil.org/assets/images/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "graphite2"
+    ]
+  },
+  "assets/tool-icons-20261104/site-cairo.png": {
+    "source": "https://cairographics.org/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "cairo"
+    ]
+  },
+  "assets/tool-icons-20261104/site-llama-cpp.png": {
+    "source": "https://llama.app/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "llama.cpp"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libx11.png": {
+    "source": "https://www.x.org/icon.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libx11"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libb2.png": {
+    "source": "https://www.blake2.net/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libb2"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libzip.png": {
+    "source": "https://libzip.org/assets/images/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libzip"
+    ]
+  },
+  "assets/tool-icons-20261104/site-mpg123.png": {
+    "source": "https://www.mpg123.de/favicon.svg",
+    "kind": "official-site-favicon",
+    "tools": [
+      "mpg123"
+    ]
+  },
+  "assets/tool-icons-20261104/site-lame.png": {
+    "source": "https://lame.sourceforge.io/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "lame"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libnghttp2.png": {
+    "source": "https://nghttp2.org/favicon.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libnghttp2"
+    ]
+  },
+  "assets/tool-icons-20261104/site-x264.png": {
+    "source": "https://images.videolan.org/images/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "x264"
+    ]
+  },
+  "assets/tool-icons-20261104/site-little-cms2.png": {
+    "source": "https://www.littlecms.com/img/favicon.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "little-cms2"
+    ]
+  },
+  "assets/tool-icons-20261104/site-xz.png": {
+    "source": "https://tukaani.org/images/tukaani_32x32.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "xz"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libxau.png": {
+    "source": "https://www.x.org/icon.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libxau"
+    ]
+  },
+  "assets/tool-icons-20261104/site-pcre2.png": {
+    "source": "https://www.pcre.org/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "pcre2"
+    ]
+  },
+  "assets/tool-icons-20261104/site-isl.png": {
+    "source": "https://libisl.sourceforge.io/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "isl"
+    ]
+  },
+  "assets/tool-icons-20261104/site-webp.png": {
+    "source": "https://www.gstatic.com/devrel-devsite/prod/veed85ba0e3651062c793a40796e84fb34afbf8489308d45f92d5448e587e3f03/developers/images/favicon-new.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "webp"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libxext.png": {
+    "source": "https://www.x.org/icon.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libxext"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libthai.png": {
+    "source": "https://linux.thai.net/files/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libthai"
+    ]
+  },
+  "assets/tool-icons-20261104/site-ca-certificates.png": {
+    "source": "https://curl.se/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "ca-certificates"
+    ]
+  },
+  "assets/tool-icons-20261104/site-simdjson.png": {
+    "source": "https://simdjson.org/simdjsonlogo.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "simdjson"
+    ]
+  },
+  "assets/tool-icons-20261104/site-pixman.png": {
+    "source": "https://cairographics.org/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "pixman"
+    ]
+  },
+  "assets/tool-icons-20261104/site-sdl3.png": {
+    "source": "https://libsdl.org/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "sdl3"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libxdmcp.png": {
+    "source": "https://www.x.org/icon.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libxdmcp"
+    ]
+  },
+  "assets/tool-icons-20261104/site-openjpeg.png": {
+    "source": "https://www.openjpeg.org/assets/images/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "openjpeg"
+    ]
+  },
+  "assets/tool-icons-20261104/site-abseil.png": {
+    "source": "https://abseil.io/favicons/favicon.ico",
+    "kind": "official-site-favicon",
+    "tools": [
+      "abseil"
+    ]
+  },
+  "assets/tool-icons-20261104/site-libxrender.png": {
+    "source": "https://www.x.org/icon.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "libxrender"
+    ]
+  },
+  "assets/tool-icons-20261104/site-xorgproto.png": {
+    "source": "https://www.x.org/icon.png",
+    "kind": "official-site-favicon",
+    "tools": [
+      "xorgproto"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-gnu.png": {
+    "source": "https://cdn.simpleicons.org/gnu",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "arm-none-eabi-binutils",
+      "arm-none-eabi-gcc",
+      "gettext",
+      "gmp",
+      "libidn",
+      "libunistring",
+      "readline"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-bitwarden.png": {
+    "source": "https://cdn.simpleicons.org/bitwarden",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "bitwarden-cli"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-cmake.png": {
+    "source": "https://cdn.simpleicons.org/cmake",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "cmake"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-ffmpeg.png": {
+    "source": "https://cdn.simpleicons.org/ffmpeg",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "ffmpeg"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-7zip.png": {
+    "source": "https://cdn.simpleicons.org/7zip",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "p7zip",
+      "sevenzip"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-python.png": {
+    "source": "https://cdn.simpleicons.org/python",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "Argos Translate",
+      "Python",
+      "UnityPy",
+      "archspec",
+      "astc_encoder_py",
+      "attrs",
+      "brotli",
+      "etcpak",
+      "fmod_toolkit",
+      "fsspec",
+      "lz4",
+      "pillow",
+      "pyfmodex",
+      "python@3.13",
+      "texture2ddecoder"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-nodedotjs.png": {
+    "source": "https://cdn.simpleicons.org/nodedotjs",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "llhttp",
+      "merve",
+      "nbytes",
+      "node",
+      "uvwasi"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-sqlite.png": {
+    "source": "https://cdn.simpleicons.org/sqlite",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "sqlite"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-lua.png": {
+    "source": "https://cdn.simpleicons.org/lua",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "lua"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-openssl.png": {
+    "source": "https://cdn.simpleicons.org/openssl",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "openssl@3",
+      "openssl@4"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-qt.png": {
+    "source": "https://cdn.simpleicons.org/qt",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "qt@5"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-libuv.png": {
+    "source": "https://cdn.simpleicons.org/libuv",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "libuv"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-llvm.png": {
+    "source": "https://cdn.simpleicons.org/llvm",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "libomp"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-gnome.png": {
+    "source": "https://cdn.simpleicons.org/gnome",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "glib",
+      "pango"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-unicode.png": {
+    "source": "https://cdn.simpleicons.org/unicode",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "icu4c@78",
+      "icu4c@79"
+    ]
+  },
+  "assets/tool-icons-20261104/tool-default.png": {
+    "source": "Code-native neutral wrench glyph",
+    "kind": "generic tool fallback",
+    "tools": [
+      "Batch CIA 3DS Decryptor",
+      "DP Live Logger",
+      "Libra",
+      "SupportTool",
+      "WordBadge",
+      "ntool"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-vim.png": {
+    "source": "https://cdn.simpleicons.org/vim",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "Vim"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-git.png": {
+    "source": "https://cdn.simpleicons.org/git",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "Git"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-firebase.png": {
+    "source": "https://cdn.simpleicons.org/firebase",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "Firebase CLI"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-github.png": {
+    "source": "https://cdn.simpleicons.org/github",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "GitHub CLI"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-npm.png": {
+    "source": "https://cdn.simpleicons.org/npm",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "npm"
+    ]
+  },
+  "assets/tool-icons-20261104/logo-googlecloud.png": {
+    "source": "https://cdn.simpleicons.org/googlecloud",
+    "kind": "brand-logo (Simple Icons; CC0 artwork, brand trademarks remain with their owners)",
+    "tools": [
+      "Google Cloud CLI"
+    ]
+  },
+  "assets/tool-icons-20261104/rar.png": {
+    "source": "Installed rar Automator application icon",
+    "kind": "bundled",
+    "tools": [
+      "rar"
+    ]
+  },
+  "assets/tool-icons-20261104/ecosystem-openemu.png": {
+    "source": "Previously published OpenEmu icon in imagebox",
+    "kind": "ecosystem",
+    "tools": [
+      "OpenEmu BIOS Pack"
+    ]
+  },
+  "assets/tool-icons-20261104/citra.png": {
+    "source": "Citra icon from previously archived macOS distribution",
+    "kind": "bundled",
+    "tools": [
+      "Citra"
+    ]
+  }
+}
